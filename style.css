@@ -1,0 +1,43 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: gray;
+}
+
+table {
+    position: absolute;
+    top: 610px;
+    left: 180px;
+}
+
+canvas {
+    display: block;
+    margin: 0 auto;
+    border: 2px solid;
+    position: absolute;
+}
+
+#blue {
+    width: 80px;
+    height: 80px;
+    background: #0000ff;
+    border-radius: 50%;
+}
+
+#green {
+    width: 80px;
+    height: 80px;
+    background: #008000;
+    border-radius: 50%;
+}
+
+#red {
+    width: 80px;
+    height: 80px;
+    background: #ff0000;
+    border-radius: 50%;
+}
+
+#startbtn {
+    margin-left: 600px;
+}
